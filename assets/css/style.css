@@ -167,14 +167,20 @@ a.mobile:active {
 	-webkit-animation-iteration-cout: infinite;
 	
 }
-
-.footer {
-	clear: both;
+footer {
+	float: left;
 	width: 100%;
-	background-color: azure;
 	padding: 60px 0px;
-	height: 100%;
-	color: azure;
+	background: #FF895D;
+   
+
+}
+
+.page_footer {
+	float:left;
+	width: 50%;
+    text-align: center;
+    padding: 20px 0px;
 }
 
 
